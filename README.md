@@ -10,6 +10,8 @@ No STOMP, no message broker, no extra abstractions — just **plain WebSocket**.
 
 ---
 
+<img width="2522" height="966" alt="image" src="https://github.com/user-attachments/assets/94f3751a-2d9f-4e01-aafb-4c3471392f34" />
+
 ## What This Demo Shows
 
 1. The **server** starts and waits for WebSocket connections
