@@ -25,7 +25,7 @@ public class WsClient implements CommandLineRunner {
 
             @Override
             public void handleTextMessage(WebSocketSession session, TextMessage message) {
-                System.out.println(message.getPayload());
+                System.out.println("Client received "+ message.getPayload());
             }
 
         };
